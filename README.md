@@ -1,6 +1,6 @@
 <!--- Picture --->
 <p align="center">
-<img src="" />
+<img src="https://github.com/leducax/leducax/blob/main/santamuerte.jpg" />
   </p align="center">
 <!--- Stat Github --->
 <img align="left" width="auto" height="150" alt="Stats Graph" src="https://github-readme-stats.vercel.app/api?username=leducax&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1">
