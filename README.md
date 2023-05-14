@@ -16,7 +16,7 @@
 <br>
 <br>
 <img align="left" width="auto" height="130" alt="Streak Graph" src="https://streak-stats.demolab.com?user=leducax&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=35&order=3">
-<img align="right" width="auto" height="100" alt="Snake" src="https://github.com/leducax/leducax/raw/output/github-contribution-grid-snake.svg"/>
+<img align="right" width="auto" height="110" alt="Snake" src="https://github.com/leducax/leducax/raw/output/github-contribution-grid-snake.svg"/>
 <br>
 <br>
 <br>
